@@ -1,0 +1,4 @@
+WifiSetup	KEYWORD1
+Init	KEYWORD2
+GetMACAddress	KEYWORD2
+GetIPAddress	KEYWORD2
